@@ -1,8 +1,4 @@
-# NoTZ Discord Tag Creator
+# NoTZ 
 
-Create a tag for use with Discord to display the correct time for all
-users regardless of their timezones.
-
-```sh
-notz Tomorrow at 9 PM
-```
+Create an active Discord timestamp tag that displays the correct time and
+date for all users in the server regardless of time zone.

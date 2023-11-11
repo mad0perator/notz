@@ -11,5 +11,6 @@ function notz \
     --wraps=date \
     --description="Convert date/time or current time to dynamic Discord tag. (no TZ)"
     echo "<t:$(date --date "$argv" +%s)>"
+    exit 0
 end
     
